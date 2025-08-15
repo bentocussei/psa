@@ -1,3 +1,13 @@
+"""
+Pulsar Social Angolano
+Autor: Bento Cussei
+Função: Data Analytics Specialist | Data Scientist
+Data: 2025-08-15
+Descrição: Aplicação para análise descritiva, diagnóstica e preditiva
+           de interações nas redes sociais angolanas.
+"""
+
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -553,6 +563,9 @@ def main():
 
             **Escopo actual:**
             Esta aplicação apresenta a Fase 1 - Análise Descritiva e Diagnóstica - com resultados de *modelação de tópicos*, *distribuição de sentimentos*, *nuvens de palavras* e *rede de interacções*. A fase preditiva será incluída quando os modelos estiverem maduros.
+            
+            **Desenvolvido por:**
+            **Bento Cussei** - *Data Analytics Specialist* | *Data Scientist*.
             """
         )
 

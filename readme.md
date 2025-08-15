@@ -1,5 +1,7 @@
 # 📊 Pulsar Social Angolano
 
+**Autor:** Bento Cussei - *Data Analytics Specialist | Data Scientist*
+
 O **Pulsar Social Angolano** é uma aplicação interativa de análise de dados sociais, focada em compreender e monitorar o comportamento e as interações da sociedade angolana nas redes sociais.  
 Atualmente, a plataforma processa dados do **Instagram**, analisando publicações, comentários e interações para gerar insights **descritivos, diagnósticos e, futuramente, preditivos**.
 
