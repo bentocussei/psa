@@ -1,6 +1,3 @@
-Segue o conteúdo em **Markdown** já formatado para poderes colocar diretamente como `README.md` no teu projeto:
-
-```markdown
 # 📊 Pulsar Social Angolano
 
 O **Pulsar Social Angolano** é uma aplicação interativa de análise de dados sociais, focada em compreender e monitorar o comportamento e as interações da sociedade angolana nas redes sociais.  
@@ -103,4 +100,3 @@ pulsar-social-angolano/
 - Atualmente, a base de dados cobre **somente o Instagram**.
 - As métricas principais no **Home** são pensadas para fácil compreensão do público geral, com textos explicativos para cada gráfico.
 - O código está estruturado para permitir fácil expansão para outras redes sociais.
-```
